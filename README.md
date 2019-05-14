@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Petros Amiridis
 
-You can use the [editor on GitHub](https://github.com/amiridis/amiridis.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Developer
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- [github.com/petros](https://github.com/petros)
 
-### Markdown
+### Social
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [LinkedIn](https://www.linkedin.com/in/petrosamiridis/)
+- [Twitter](https://twitter.com/amiridis)
 
-```markdown
-Syntax highlighted code block
+### Now
 
-# Header 1
-## Header 2
-### Header 3
+_What am I doing now_
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amiridis/amiridis.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Working at [GitHub](https://github.com) as a Principal Engineer in Support
+- Blogging about my journey in life at [petros.blog](https://petros.blog)
+- Blogging and podcasting at [devkatianio.com](https://devkatiano.com)
+- Working at building a family and opinionated company at [HeavyMelon](https://heavymelon.com)
